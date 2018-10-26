@@ -1,2 +1,2 @@
 # babyclothes
-service for sharing baby clothes
+service for paretnts enabling better management of sharing outgrown clothes
